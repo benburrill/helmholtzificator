@@ -28,7 +28,7 @@ Here's an eigenfunction for a quartic double-well potential:
 To start the interactive eigenfunction explorer, run:
 
 ```
-$ python3 -m hemholtzificator FILE
+$ python3 -m helmholtzificator FILE
 ```
 
 Where FILE can be either a `.png` file (transparent pixels specify
@@ -47,7 +47,7 @@ coordinates (0, 1).
 Uncertainties are estimated rather crudely, so take them with a grain of
 salt.  They give some indication of how well the solution has converged, but
 I typically see more variance in eigenvalues by pressing refresh a bunch of
-times than can be explained by the uncertainties.
+times than can be explained by the reported uncertainties.
 
 The resolution of your input images/arrays should be low!  I recommend
 below 100x100 px.
