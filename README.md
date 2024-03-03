@@ -8,7 +8,8 @@ $$
 $$
 
 This is the form of the time-independent Schrödinger equation with
-potential $\propto V(\vec{x})$.
+potential $\propto V(\vec{x})$.  
+<sup>(Want to play with something time-dependent instead?  Try https://github.com/benburrill/toad_seer)</sup>
 
 Helmholtzificator provides an interactive matplotlib user interface with
 a slider to select eigenvalues.
