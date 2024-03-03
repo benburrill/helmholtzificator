@@ -13,6 +13,12 @@ potential $\propto V(\vec{x})$.
 Helmholtzificator provides an interactive matplotlib user interface with
 a slider to select eigenvalues.
 
+## Examples
+
+![Cat face](https://github.com/benburrill/helmholtzificator/assets/8140726/ee47ebce-a979-4a6a-a695-78b68aa846c0)
+
+![Double well](https://github.com/benburrill/helmholtzificator/assets/8140726/1ca88ba4-325b-48b8-9b5e-752849b2a5a6)
+
 ## Usage
 To start the interactive eigenfunction explorer, run:
 
